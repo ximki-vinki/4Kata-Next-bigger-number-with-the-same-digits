@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Kata Next bigger number with the same digits", "4Kata Next bigger number with the same digits\4Kata Next bigger number with the same digits.csproj", "{5574B7F0-8AFF-4AF6-87C6-C5D958A4009D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5574B7F0-8AFF-4AF6-87C6-C5D958A4009D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5574B7F0-8AFF-4AF6-87C6-C5D958A4009D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5574B7F0-8AFF-4AF6-87C6-C5D958A4009D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5574B7F0-8AFF-4AF6-87C6-C5D958A4009D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBBBE866-9F1B-4AA2-96CD-8AB6D5373BB5}
+	EndGlobalSection
+EndGlobal
